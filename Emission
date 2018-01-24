@@ -1,0 +1,3 @@
+const uint64_t MONEY_SUPPLY = (uint64_t)(-1);
+const unsigned EMISSION_SPEED_FACTOR = 19;
+const uint64_t DIFFICULTY_TARGET = 100;
